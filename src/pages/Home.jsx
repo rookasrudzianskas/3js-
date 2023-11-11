@@ -104,14 +104,14 @@ const Home = () => {
         </Suspense>
       </Canvas>
 
-      {/*<div className='absolute bottom-2 left-2'>*/}
-      {/*  <img*/}
-      {/*    src={!isPlayingMusic ? soundoff : soundon}*/}
-      {/*    alt='jukebox'*/}
-      {/*    onClick={() => setIsPlayingMusic(!isPlayingMusic)}*/}
-      {/*    className='w-10 h-10 cursor-pointer object-contain'*/}
-      {/*  />*/}
-      {/*</div>*/}
+      <div className='absolute bottom-2 left-2'>
+        <img
+          src={!isPlayingMusic ? soundoff : soundon}
+          alt='jukebox'
+          onClick={() => setIsPlayingMusic(!isPlayingMusic)}
+          className='w-10 h-10 cursor-pointer object-contain'
+        />
+      </div>
     </section>
   );
 };
