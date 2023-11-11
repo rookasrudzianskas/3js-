@@ -1,8 +1,7 @@
-# React + Vite
+# Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
+### [🌐 Best Hosting for Your Websites](https://www.hostinger.com/recommended/javascriptmastery)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
